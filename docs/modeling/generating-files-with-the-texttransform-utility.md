@@ -54,6 +54,9 @@ for Enterprise edition.
 TextTransform [<options>] <templateName>
 ```
 
+> [!NOTE]
+> If you're using an option that accepts multiple values you will need to use the POSIX escape token `--` before specifying the `templateName`.
+
 ### Parameters
 
 |**Argument**|**Description**|
